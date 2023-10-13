@@ -3,7 +3,7 @@ import {motion} from "framer-motion";
 import {styles} from "../style";
 import {ComputersCanvas} from "./canvas"
 import Ball from './canvas/Ball';
-import { duration } from '@material-ui/core';
+//import { duration } from '@material-ui/core';
 const Hero = () => {
   return (
     <section className='relative w-full h-screen mx-auto'>
